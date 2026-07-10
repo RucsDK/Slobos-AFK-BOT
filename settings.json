@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serversky8890.aternos.me:46646",
+    "ip": "serversky8890.aternos.me",
     "port": 46646,
     "version": "1.21.11"
   },
